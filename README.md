@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!%20I'm%20OG_Matcha&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!%20I'm%20sunset513&height=100&section=header"/>
 </p>
 
 <h1 align="center">
@@ -14,8 +14,7 @@ Hi I am sunset513!💬
 </p>
 
 <p align="center">
-  <img height="250" src= "https://i.imgur.com/CLmQxbH.gif">
-  <img height="250" src= "https://github.com/OG-Matcha/OG-Matcha/assets/85878531/882e99ce-41ac-4a06-9a49-6d424b0f605b.gif">
+
 </p>
 
 ---
@@ -38,7 +37,7 @@ fields_of_interests:
 technical_background:
   [
     "Planning Gruop Leader - 2024 NCU Fresh Web"
-    "Leader - NCU Piano club",
+    "Leader - NCU Piano Club",
     "Art Group Leader - Google Developer Student Club"
   ]
   
@@ -52,7 +51,7 @@ hobbies: ["Programming", "Gaming", "Piano", "Badminton", "Sport"]
 
 <h3>Programming Language</h4>
 
-[![PL](https://skillicons.dev/icons?i=c,cpp,py,js)](https://skillicons.dev)
+[![PL](https://skillicons.dev/icons?i=cpp,py,js)](https://skillicons.dev)
 
 
 <h3>Frontend</h3>
@@ -61,7 +60,7 @@ hobbies: ["Programming", "Gaming", "Piano", "Badminton", "Sport"]
 
 <h3>Backend</h3>
 
-[![BE](https://skillicons.dev/icons?i=fastapi,flask,graphql)](https://skillicons.dev)
+[![BE](https://skillicons.dev/icons?i=fastapi,graphql)](https://skillicons.dev)
 
 <h3>Dev Tools</h3>
 
@@ -69,27 +68,13 @@ hobbies: ["Programming", "Gaming", "Piano", "Badminton", "Sport"]
 
 <h3>Design</h3>
 
-[![DE](https://skillicons.dev/icons?i=figma,md)](https://skillicons.dev)
+[![DE](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 <h3>IDE</h3>
 
 [![IDE](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ---  
-
-<h2> 📈 &nbsp;My GitHub History!</h2>
-
-![](https://komarev.com/ghpvc/?username=sunset513&color=brightgreen&style=plastic)
-
-<a href="https://github.com/sunset513">
-  <img align="center" src="https://github-readme-stats-sunset513.vercel.app/api?username=sunset513a&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/OG-Matcha">
-  <img align="center" src="https://github-readme-stats-sunset513.vercel.app/api/top-langs/?username=sunset513&layout=compact&hide=jupyter%20notebook&theme=radical" />
-</a>
-
-![Snake animation](https://github.com/sunset513/sunset513/blob/output/github-contribution-grid-snake-dark.svg)
- 
 <h2> 🎧 &nbsp;What I Have Done</h2>
 
 

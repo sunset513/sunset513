@@ -75,8 +75,6 @@ hobbies: ["Programming", "Gaming", "Piano", "Badminton", "Sport"]
 [![IDE](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ---  
-<h2> 🎧 &nbsp;What I Have Done</h2>
-
 
 
 <p align="left">

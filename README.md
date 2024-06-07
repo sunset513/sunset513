@@ -58,9 +58,10 @@ hobbies: ["Programming", "Gaming", "Piano", "Badminton", "Sport"]
 
 [![FE](https://skillicons.dev/icons?i=html,css,vue,nuxt)](https://skillicons.dev)
 
+
 <h3>Backend</h3>
 
-[![BE](https://skillicons.dev/icons?i=fastapi,graphql)](https://skillicons.dev)
+[![BE](https://skillicons.dev/icons?i=fastapi,graphql,flask)](https://skillicons.dev)
 
 <h3>Dev Tools</h3>
 

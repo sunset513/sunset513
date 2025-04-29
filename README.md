@@ -46,6 +46,7 @@ hobbies: ["Programming", "Gaming", "Piano", "Badminton", "Sport"]
 ```
   
 ---
+![LeetCode Stats](https://leetcard.jacoblin.cool/sunset513?theme=dark&font=Mallanna&ext=heatmap)
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
